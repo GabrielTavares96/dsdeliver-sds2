@@ -1,3 +1,6 @@
+# DS Delivery 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GabrielTavares96/dsdeliver-sds2/blob/main/LICENSE)
+
 # dsdeliver-sds2
 
 https://tavares-sds2.netlify.app/
